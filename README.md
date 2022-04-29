@@ -20,13 +20,13 @@ $config = [
     'is_php_script' => false, // Web@cadémie : true // PGE1 : false
 ];
 ```
-The parameters `list_sizes` and `timeout` can be changed to your needs.
-The first one is the list of sizes you want to test.
-The second one is the limit of the runtime of the Pushswap.
+The parameters `list_sizes` and `timeout` can be changed to your needs.  
+The first one is the list of sizes you want to test.  
+The second one is the limit of the runtime of the Pushswap.  
 
 ### Execution
-To run the program, you need php.
-Run the program with :
+To run the program, you need php.  
+Run the script with :
 ```bash
 $ php PushswapChecker.php
 ```
